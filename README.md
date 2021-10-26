@@ -1,5 +1,15 @@
 ### Olá eu sou o Fabio 👋
 <div align="center">
+  <p>Fala Devs !!!
+  <br>
+     Eu me chamo Fabio, sou um dev entusiasta e amante de tecnologia, me formei em processamento de dados no ano de 2000.
+  <br>
+     Fiquei um pouco afastado da programção e agora estou de volta, muita coisa a se estudar... muita coisa a se aprender.
+  <br>
+  <br>
+     Valeu !!!
+   <br>
+   <br> 
   <a href="https://github.com/bartolofabio">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bartolofabio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartolofabio&layout=compact&langs_count=7&theme=dark"/>
